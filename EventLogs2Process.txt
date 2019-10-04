@@ -1,0 +1,14 @@
+APPLICATION.evtx 
+Microsoft-Windows-PowerShell%4Operational.evtx
+Microsoft-Windows-RemoteDesktopServices-RdpCoreTS%4Admin.evtx 
+Microsoft-Windows-RemoteDesktopServices-RdpCoreTS%4Operational.evtx 
+Microsoft-Windows-SmbClient%4Security.evtx 
+Microsoft-Windows-TaskScheduler%4Maintenance.evtx 
+Microsoft-Windows-TaskScheduler%4Operational.evtx 
+Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Admin.evtx 
+Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx 
+Microsoft-Windows-WinRM%4Operational.evtx 
+Microsoft-Windows-WMI-Activity%4Operational.evtx 
+SECURITY.evtx 
+SOFTWARE.evtx 
+SYSTEM.evtx 
